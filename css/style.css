@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.header{
+  width: 100%;
+  height: 833px;
+  background: url(../img/header_bg.png) no-repeat;
+  background-size: 100%;
+}
+.header p{
+  padding-top: 250px;
+  color: white;
+  font-size: 48px;
+}
+.bt_buy{
+  width: 200px;
+  height: 45px;
+  background: #00FFFF;
+  color: #232323;
+  font-size: 24px;
+}
+a, p, h1, h2, h3, li{
+  font-family: 'Roboto', sans-serif;
+}
+button{
+  border: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+.menu{
+    display: flex;
+    margin-left: 35%;
+    padding-top: 30px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 24px;
+}
+.bts_log_in{
+  margin-left: 80%;
+  margin-top: -40px;
+}
+.sign_up{
+  width: 179px;
+  height: 36px;
+  background: #00FFFF;
+}
+.log_in{
+  width: 121px;;
+  height: 36px;
+  margin-left: 24px;
+  background: #C4C4C4;
+}
+.main{
+  width: 100%;
+}
+.destination{
+  margin-top: 211px;
+  margin-left: 503px;
+  width: 477px;
+  height: 146px;
+}
+.desti_heading{
+  font-size: 36px;
+}
+.hospitality{
+  margin-top: 221px;
+  width: 1071px;
+  height: 458px;
+}
+.hospitality p{
+  font-size: 48px;
+  text-align: center;
+}
+.plan_heading{
+  padding-top: 307px;
+  font-size: 48px;
+}
+.plan_els{
+  margin-left: 84px;
+  margin-top: 26px;
+  font-size: 36px;
+}
+.about_us_heading{
+  padding-top: 158px;
+  font-size: 48px;
+}
+.about_us p{
+  font-size: 36px;
+}
+}
+.about_us{
+  margin-top: 33px;
+}
+.footer{
+  width: 100%;
+  height: 337px;
+  background: url(../img/header_bg.png) no-repeat;
+  background-size: 100%;
+}
+.menu2{
+  width: 245px;
+  height: 188px;
+  margin-left: 289px;
+  padding-top: 89px;
+}
+.menu2 a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 24px;
+  padding-top: 24px;
+}
+.contact_data{
+  position: relative;
+  left: 848px;
+  top: -150px;
+}
+.contact_data p{
+  color: white;
+  font-size: 18px;
+}

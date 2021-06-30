@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.menu_el{
+  font-size: 24px;
+}
+a, p, h1, h2, h3, li{
+  font-family: 'Roboto', sans-serif;
+}
+.heading{
+  font-size: 48px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.log_out{
+  width: 121px;
+  height: 36px;
+
+  background: #C4C4C4;
+  border: 0px;
+
+  position: absolute;
+  right: 32px;
+  top: 25px;
+
+  color: black;
+  font-size: 18px;
+}
+.kurses_text{
+  font-size: 36px;
+}
+.kurs{
+  width: 100%;
+  height: 94px;
+
+  background: #C4C4C4;
+
+  float: bottom;
+  margin-top: 20px;
+}
+.kurs p{
+  padding: 25px;
+}
+.bts_kurs{
+  float: right;
+  margin-top: -60px;
+  margin-right: 27px;
+
+  display: flex;
+}
+.new_buy{
+  width: 179px;
+  height: 46px;
+
+  background: #00FFFF;
+  border: 0px;
+
+}
+.download{
+  width: 179px;
+  height: 46px;
+
+  background: #8C8C8C;
+  border: 0px;
+
+  margin-left: 13px;
+}
